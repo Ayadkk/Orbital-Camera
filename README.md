@@ -16,10 +16,10 @@ Simply drop the script in your Unity's asset folder and add it to the camera obj
 | Mouse Sensitivity            |  Affects the orbiting speed related to mouse/swipe speed| 
 | Distance from target | Default distance to keep from target|
 | Orbiting smooth time | Slight latency to smooth the movement|
-| Rotation X Min Max |   Min Max limit for the vertical rotaion|
-| Rotation Y Min Max |   Min Max limit for the horizontal rotaion|
-|Invert X Axix | inverts vertical movement|
+| Rotation X Min Max |   Min Max limit for the vertical rotation|
+| Rotation Y Min Max |   Min Max limit for the horizontal rotation|
+|Invert X Axix | Inverts vertical movement|
 |Activate Zooming | Toggles zoom feature ON/OFF|
 |Mouse Zoom Speed| Mouse zooming speed|
 |Touch Zoom Speed| Touch zooming sensitivity|
-|Distatance Min Max| Min Max distance from target| 
+|Distance Min Max| Min Max distance from target| 
